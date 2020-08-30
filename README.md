@@ -3,9 +3,11 @@
 [![Website](https://img.shields.io/website?label=Follow+@timothebuilder&style=for-the-badge&url=https://www.instagram.com/timothebuilder&color=orange)](instagram)
 [![Twitter Follow](https://img.shields.io/twitter/follow/timothebuilder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/timothebuilder&screen_name=timothebuilder)
 
+---
+
 ## I'm a computer science student and small YouTuber!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to teach you what I have learned
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ I love to draw and dance
