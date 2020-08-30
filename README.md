@@ -42,7 +42,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothebuilder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothebuilder&layout=compact)](https://github.com/timothebuilder)
 
 [twitter]: https://twitter.com/timothebuilder
 [youtube]: https://youtube.com/c/TimotheBuilder
