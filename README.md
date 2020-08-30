@@ -29,6 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Götterblitz | #7 MCPE Modding Tutorials | TimoTheBuilder](https://www.youtube.com/watch?v=_hb4jwwSRAY)
+- [iPhone 12 Leaks | Konzept | TimoTheBuilder](https://www.youtube.com/watch?v=7mRwo-ly3L8)
+- [Willkommensnachricht + eigene Commands | #6 MCPE Modding Tutorials | TimoTheBuilder](https://www.youtube.com/watch?v=dQ5G5Wls9J4)
+- [Timber-Axt | #5 MCPE Modding Tutorials | TimoTheBuilder](https://www.youtube.com/watch?v=5phi4ir5OBU)
+- [Eigene Werkzeuge | #4 MCPE Modding Tutorials | TimoTheBuilder](https://www.youtube.com/watch?v=0-_wLGhfWRs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/timothebuilder)
