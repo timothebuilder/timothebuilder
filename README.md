@@ -42,6 +42,8 @@
 
 ---
 
+### ⚡ GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothebuilder&layout=compact)](https://github.com/timothebuilder)
 
 [twitter]: https://twitter.com/timothebuilder
