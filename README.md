@@ -1,7 +1,8 @@
 ### Hi there, I'm Timo - aka [Timo the Builder][youtube] 👋
 
-[![Website](https://img.shields.io/twitter/follow/timothebuilder?color=%23E4405F&label=Follow%20%40timothebuilder&logo=instagram&logoColor=%23E4405F&style=for-the-badge)](instagram)
+[![Instagram](https://img.shields.io/twitter/follow/timothebuilder?color=%23E4405F&label=Follow%20%40timothebuilder&logo=instagram&logoColor=%23E4405F&style=for-the-badge)](instagram)
 [![Twitter Follow](https://img.shields.io/twitter/follow/timothebuilder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/timothebuilder&screen_name=timothebuilder)
+[![Website](https://img.shields.io/twitter/follow/timothebuilder?color=%23E4405F&label=Follow%20%40timothebuilder&logo=instagram&logoColor=%23E4405F&style=for-the-badge)](instagram)
 
 ---
 
