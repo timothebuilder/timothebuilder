@@ -1,6 +1,6 @@
 ### Hi there, I'm Timo - aka [Timo the Builder][youtube] 👋
 
-[![Instagram](https://img.shields.io/badge/Follow%20%40timothebuilder-Click-%23E4405F?logo=instagram&logoColor=%23E4405F&style=for-the-badge)](instagram)
+[![Instagram](https://img.shields.io/badge/Follow%20%40timothebuilder-Click-%23E4405F?logo=instagram&logoColor=%23E4405F&style=for-the-badge)](https://instagram.com/timothebuilder)
 [![Twitter Follow](https://img.shields.io/twitter/follow/timothebuilder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/timothebuilder&screen_name=timothebuilder)
 [![Discord](https://img.shields.io/discord/717810385436016701?color=%237289DA&label=Discord&logo=discord&logoColor=%237289DA&style=for-the-badge)](https://discord.gg/uN3RCBp)
 
@@ -23,6 +23,10 @@
 <br />
 
 ### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Blender" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/blender.svg" />][webdevplaylist]
+
 
 <br />
 <br />
