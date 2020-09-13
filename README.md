@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Follow%20%40timothebuilder-Click-%23E4405F?logo=instagram&logoColor=%23E4405F&style=for-the-badge)](https://instagram.com/timothebuilder)
 [![Twitter Follow](https://img.shields.io/twitter/follow/timothebuilder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/timothebuilder&screen_name=timothebuilder)
-[![Discord](https://img.shields.io/discord/717810385436016701?color=%237289DA&label=Discord&logo=discord&logoColor=%237289DA&style=for-the-badge)](https://discord.gg/uN3RCBp)
+[![Discord](https://img.shields.io/discord/717810385436016701?color=%237289DA&label=Join+my+Discord&logo=discord&logoColor=%237289DA&style=for-the-badge)](https://discord.gg/uN3RCBp)
 
 ---
 
