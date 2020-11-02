@@ -52,7 +52,7 @@
 <!-- YOUTUBE:START -->
 - [Setup mit Raspian | Raspberry Pi | TimoTheBuilder](https://www.youtube.com/watch?v=hDPJ2On1tFA)
 - [Corona Counter App | Flutter Speedcodings | TimoTheBuilder](https://www.youtube.com/watch?v=ulJBA6X4UeE)
-- [Eigener Wurftrank | #8 Modding Tutorials | TimoTheBuilder](https://www.youtube.com/watch?v=GxYkwkvy_LA)
+- [Eigener Wurftrank | #8 MCPE Modding Tutorials | TimoTheBuilder](https://www.youtube.com/watch?v=GxYkwkvy_LA)
 - [Götterblitz | #7 MCPE Modding Tutorials | TimoTheBuilder](https://www.youtube.com/watch?v=_hb4jwwSRAY)
 - [iPhone 12 Leaks | Konzept | TimoTheBuilder](https://www.youtube.com/watch?v=7mRwo-ly3L8)
 <!-- YOUTUBE:END -->
