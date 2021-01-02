@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to teach you what I have learned
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Add more content to YouTube and GitHub
 - ⚡ I love to draw and dance
 
 ### Connect with me:
